@@ -203,13 +203,7 @@ void* thread_function(void* arg) {
 
 
 
-   // If the response did not start with quit
-      //increments by 1 the linecount for this conversation
-      //writes the message consisting of the prompt and the response into the
-        //log (for logging functions, you do not include the terminating
-        //to the message, however, if the message is a multiple-line,
-        //please follow any embedded with one space)
-      //exits the thread, its return value is irrelevant
+
 
 
 
@@ -218,9 +212,7 @@ void* thread_function(void* arg) {
 }
 
 
-// Testing the assgn2 with the log files:
-// make assgn2 level=<#>
-// ./assgn2
+
 
 
 
