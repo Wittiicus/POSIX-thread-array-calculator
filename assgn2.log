@@ -1,0 +1,19 @@
+message number = 0, process id = 28885, time and date = 23:36:24 03/13/22
+ [pid=1811305192,tid=130981888,index=0,name=Person0] Enter Message:
+ fuck
+
+message number = 1, process id = 28885, time and date = 23:36:25 03/13/22
+ [pid=1811305192,tid=130981888,index=0,name=Person0] Enter Message:
+ this 
+
+message number = 2, process id = 28885, time and date = 23:36:26 03/13/22
+ [pid=1811305192,tid=130981888,index=0,name=Person0] Enter Message:
+ it wont 
+
+message number = 3, process id = 28885, time and date = 23:36:27 03/13/22
+ [pid=1811305192,tid=130981888,index=0,name=Person0] Enter Message:
+ work
+
+message number = 4, process id = 28885, time and date = 23:36:29 03/13/22
+ [pid=1811305192,tid=130981888,index=0,name=Person0] Enter Message:
+ user quit
